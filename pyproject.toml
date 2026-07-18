@@ -1,0 +1,16 @@
+[project]
+name = "BallGPT"
+version = "1.0.0"
+
+description = "Balls.. Balls gpt...... balls.."
+
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "cewlgruyere", email = "gruyere@remicrodex.com" },
+]
+readme = "README.md"
+
+dependencies = []
+
