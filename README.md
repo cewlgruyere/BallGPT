@@ -5,4 +5,7 @@
 
 Welcome to ballGPT - The ultimate ball
 
-adds the /ask command
+adds the /ask command and @ballsdex-is-this-true
+
+
+No rights 2026© - OpenBallAI
