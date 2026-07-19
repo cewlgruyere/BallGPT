@@ -1,4 +1,4 @@
-![BallGPT text](https://i.imgur.com/i41O5jQ.png)
+![BallGPT text](https://i.imgur.com/mjAlGCR.jpeg)
 
 # BallGPT
 > why? i dunno
