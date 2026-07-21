@@ -64,7 +64,7 @@ class BallGPT(commands.Cog):
         Parameters
         ----------
         question: str
-            The question that BallGPT - the ultimate bll will recieve.
+            The question that BallGPT - the ultimate ball will recieve.
         """
 
         await interaction.response.defer(thinking=True)
