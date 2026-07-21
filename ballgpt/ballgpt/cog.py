@@ -1,5 +1,6 @@
 import discord
 from discord import app_commands
+from ballsdex.core.bot import BallsDexBot
 from discord.ext import commands
 import asyncio
 import random
@@ -54,7 +55,7 @@ class BallGPT(commands.Cog):
         self.is_this_true = app_commands.ContextMenu(name="@ballsdex is this true", callback=self.trueorfalse)
         self.bot.tree.add_command(self.is_this_true)
 
-    @hybrid_commands.command()
+    @commands.hybrid_command()
     @app_commands.command()
     async def ask(self, interaction: discord.Interaction["BallsDexBot"], question: str):
         """
