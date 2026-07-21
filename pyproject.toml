@@ -1,6 +1,6 @@
 [project]
-name = "BallGPT"
-version = "1.0.0"
+name = "ballgpt"
+version = "1.0.2"
 
 description = "Balls.. Balls gpt...... balls.."
 
