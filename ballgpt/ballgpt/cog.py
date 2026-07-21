@@ -54,6 +54,7 @@ class BallGPT(commands.Cog):
         self.is_this_true = app_commands.ContextMenu(name="@ballsdex is this true", callback=self.trueorfalse)
         self.bot.tree.add_command(self.is_this_true)
 
+    @hybrid_commands.command()
     @app_commands.command()
     async def ask(self, interaction: discord.Interaction["BallsDexBot"], question: str):
         """

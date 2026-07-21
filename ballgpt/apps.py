@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class BallgptConfig(AppConfig):
     name = 'ballgpt'
-    name = 'ballgpt.balls'
+    dpy_package = 'ballgpt.ballgpt'
